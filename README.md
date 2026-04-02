@@ -19,8 +19,8 @@ I am a software engineer based in the Portland, Oregon area with a passion for b
 
 - 🔭 **Currently seeking:** Software Engineer and Visualization Engineer roles. (Recently passed the Google Hiring Assessment!)
 - 🧠 **Currently exploring:** The intersection of software and physical systems, specifically working with **Unreal Engine**, **robotics**, and **OptiTrack** motion capture technology.
-- 🌱 **Always learning:** I love diving into emerging tech, especially exploring creative AI tools for music generation.
-- ⚡ **Fun fact:** When I'm not coding, I'm likely attending pop culture conventions, servicing my car, or at the arcade.
+- 🌱 **Always learning:** I love diving into emerging tech, especially exploring creative AI tools for code development.
+- ⚡ **Fun fact:** When I'm not coding, I'm likely attending pop culture conventions, servicing my car, jamming on my electric guitar, or at the arcade.
 
 ---
 
