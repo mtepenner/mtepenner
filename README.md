@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-I am a software engineer based in the Portland, Oregon area with a passion for building robust systems and exploring highly visual, interactive technologies. With a background blending rigorous computer science academia and practical operational experience from a nearly 3-year tenure at Intel Corporation, I approach problem-solving with both creativity and precision.
+I am a recent college graduate based in the Portland, Oregon area with a passion for building robust systems and exploring highly visual, interactive technologies. With a background blending rigorous computer science academia and passion projects post academia, I approach problem-solving with both creativity and precision.
 
 - 🔭 **Currently seeking:** Software Engineer and AI Engineer roles. (Recently passed the Google Hiring Assessment!)
 - 🧠 **Currently exploring:** The intersection of software and physical systems, specifically working with **Unreal Engine**, **robotics**, and **OptiTrack** motion capture technology.
