@@ -47,17 +47,7 @@ I am a software engineer based in the Portland, Oregon area with a passion for b
   <img src="https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge" alt="Robotics" />
 </p>
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mtepenner&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtepenner&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 
 <p align="center"><i>Thanks for stopping by! Feel free to reach out if you want to chat about code, game dev, or motion capture.</i></p>
