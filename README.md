@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Matthew! 👋</h1>
 
-<h3 align="center">Software Engineer | Visualization Enthusiast | B.S. Computer Science, PSU Honors College</h3>
+<h3 align="center">Software Engineer | Robot Enthusiast | B.S. Computer Science, PSU Honors College</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matthew-penner-39543217oo/" target="_blank">
