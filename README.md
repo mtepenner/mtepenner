@@ -15,12 +15,13 @@
 
 ### 👨‍💻 About Me
 
-I am a recent college graduate based in the Portland, Oregon area with a passion for building robust systems and exploring highly visual, interactive technologies. With a background blending rigorous computer science academia and passion projects post academia, I approach problem-solving with both creativity and precision.
+I am a recent Computer Science graduate based in the Portland area with a passion for building robust systems and exploring highly visual, interactive technologies. With a background blending rigorous academia, hands-on hardware management, and post-grad passion projects, I approach problem-solving with both creativity and precision.
 
-- 🔭 **Currently seeking:** Software Engineer and AI Engineer roles. (Recently passed the Google Hiring Assessment!)
+- 💼 **Currently working:** Contracted at **Intel Corporation**, managing component inventory and quality control—bringing a practical hardware perspective to my software engineering pursuits.
+- 🔭 **Currently seeking:** Software Engineer and ASIC Verification/AI Engineer roles. (Recently passed the Google Hiring Assessment!)
 - 🧠 **Currently exploring:** The intersection of software and physical systems, specifically working with **Unreal Engine**, **robotics**, and **OptiTrack** motion capture technology.
-- 🌱 **Always learning:** I love diving into emerging tech, especially exploring creative AI tools for code development.
-- ⚡ **Fun fact:** When I'm not coding, I'm likely attending pop culture conventions, servicing my car, jamming on my electric guitar, or at the arcade.
+- 🌱 **Always learning:** I love diving into emerging tech, prepping for technical challenges using TypeScript, and exploring creative AI tools for code development.
+- ⚡ **Fun fact:** When I'm not coding, I'm likely attending pop culture conventions, catching local aviation airshows, watching a Robert Eggers film, or hanging out at the arcade.
 
 ---
 
@@ -53,7 +54,11 @@ I am a recent college graduate based in the Portland, Oregon area with a passion
   <img src="https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge" alt="Robotics" />
 </p>
 
+---
 
-
+### 📊 GitHub Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mtepenner&show_icons=true&theme=transparent&hide_border=true" alt="Matthew's GitHub Stats" />
+</p>
 
 <p align="center"><i>Thanks for stopping by! Feel free to reach out if you want to chat about code, game dev, or motion capture.</i></p>
