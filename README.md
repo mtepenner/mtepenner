@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Matthew! 👋</h1>
- 
+
 <h3 align="center">RCG | Robot Enthusiast | B.S. Computer Science, PSU Honors College</h3>
 
 <p align="center">
@@ -15,12 +15,15 @@
 
 ### 👨‍💻 About Me
 
-I am a recent Computer Science graduate based in the Portland area with a passion for building robust systems and exploring highly visual, interactive technologies. With a background blending rigorous academia, hands-on hardware management, and post-grad passion projects, I approach problem-solving with both creativity and precision.
+I am a recent Computer Science graduate based in the Portland area with a passion for building robust systems and exploring highly visual, interactive technologies. My background blends rigorous academia, elite technical volunteerism, and hands-on hardware management.
 
 - 💼 **Currently working:** Contracted at **Intel Corporation**, managing component inventory and quality control—bringing a practical hardware perspective to my software engineering pursuits.
 - 🔭 **Currently seeking:** Software Engineer and ASIC Verification/AI Engineer roles. (Recently passed the Google Hiring Assessment!)
+- 🛠️ **Systems & Service:** - **Computer Action Team (CAT):** Former member of PSU’s volunteer-driven IT/Systems Administration force. Gained hands-on experience in cross-platform troubleshooting and large-scale infrastructure management.
+  - **Civil Air Patrol (CAP):** Served as a **Technical Sergeant**, developing leadership skills and a high-discipline approach to complex, mission-critical environments.
+  - **CyberPatriot:** Competed in the AFA’s National Youth Cyber Defense Competition, honing skills in network security, system hardening, and rapid-response vulnerability patching.
 - 🧠 **Currently exploring:** The intersection of software and physical systems, specifically working with **Unreal Engine**, **robotics**, and **OptiTrack** motion capture technology.
-- 🌱 **Always learning:** I love diving into emerging tech, prepping for technical challenges using TypeScript, and exploring creative AI tools for code development.
+- 🌱 **Always learning:** Prepping for technical challenges using TypeScript and exploring creative AI tools for code development.
 - ⚡ **Fun fact:** When I'm not coding, I'm likely attending pop culture conventions, catching local aviation airshows, watching a Robert Eggers film, or hanging out at the arcade.
 
 ---
@@ -40,18 +43,20 @@ I am a recent Computer Science graduate based in the Portland area with a passio
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
 </p>
 
+#### Specialized Tech & Systems
+<p>
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
+  <img src="https://img.shields.io/badge/Motion_Capture-OptiTrack-blue?style=for-the-badge" alt="OptiTrack" />
+  <img src="https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge" alt="Robotics" />
+  <img src="https://img.shields.io/badge/Security-CyberPatriot-red?style=for-the-badge" alt="CyberPatriot" />
+  <img src="https://img.shields.io/badge/Systems_Admin-CAT-black?style=for-the-badge" alt="Computer Action Team" />
+</p>
+
 #### Frontend & Backend
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-</p>
-
-#### Specialized Tech & Interests
-<p>
-  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
-  <img src="https://img.shields.io/badge/Motion_Capture-OptiTrack-blue?style=for-the-badge" alt="OptiTrack" />
-  <img src="https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge" alt="Robotics" />
 </p>
 
 ---
