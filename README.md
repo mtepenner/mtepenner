@@ -1,4 +1,4 @@
-<h1 align="center">𝓗𝓲 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 𝓜𝓪𝓽𝓽𝓱𝓮𝔀 𝓟𝓮𝓷𝓷𝓮𝓻!👋</h1>
+<h1 align="center">𝓗𝓲  𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 𝓜𝓪𝓽𝓽𝓱𝓮𝔀 𝓟𝓮𝓷𝓷𝓮𝓻!👋</h1>
 
 <h3 align="center">RCG | Robot Enthusiast | B.S. Computer Science, PSU Honors College</h3>
 
