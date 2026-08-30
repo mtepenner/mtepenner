@@ -19,8 +19,7 @@
 
 I am a recent Computer Science graduate based in the Portland area with a passion for building robust systems and exploring highly visual, interactive technologies. My background blends rigorous academia, elite technical volunteerism, and hands-on hardware management.
 
-- 💼 **Currently working:** Contracted at **Intel Corporation**, managing component inventory and quality control—bringing a practical hardware perspective to my software engineering pursuits.
-- 🔭 **Currently seeking:** Software Engineer and ASIC Verification/AI Engineer roles. (Recently passed the Google Hiring Assessment!)
+- 💼 **Currently working:** Software Developer for SII Group USA
 - 🛠️ **Systems & Service:** - **Computer Action Team (CAT):** Former member of PSU’s volunteer-driven IT/Systems Administration force. Gained hands-on experience in cross-platform troubleshooting and large-scale infrastructure management.
   - **Civil Air Patrol (CAP):** Served as a **Technical Sergeant**, developing leadership skills and a high-discipline approach to complex, mission-critical environments.
   - **CyberPatriot:** Competed in the AFA’s National Youth Cyber Defense Competition, honing skills in network security, system hardening, and rapid-response vulnerability patching.
