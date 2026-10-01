@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I am a recent Computer Science graduate based in the Portland area with a passion for building robust systems and exploring highly visual, interactive technologies. My background blends rigorous academia, elite technical volunteerism, and hands-on hardware management.
+I am a recent Computer Science graduate based in the Austin area with a passion for building robust systems and exploring highly visual, interactive technologies. My background blends rigorous academia, elite technical volunteerism, and hands-on hardware management.
 
 - 💼 **Currently working:** QA Automation Engineer for SII Group USA
 - 🛠️ **Systems & Service:** - **Computer Action Team (CAT):** Former member of PSU’s volunteer-driven IT/Systems Administration force. Gained hands-on experience in cross-platform troubleshooting and large-scale infrastructure management.
