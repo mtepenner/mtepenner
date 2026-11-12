@@ -1,6 +1,6 @@
 <h1 align="center">Greetings, I'm Matt!👋</h1>
 
-<h3 align="center">RCG | Robot Enthusiast | B.S. Computer Science, PSU Honors College</h3>
+<h3 align="center">B.S. Computer Science, PSU Honors College</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matthew-penner-39543217oo/" target="_blank">
